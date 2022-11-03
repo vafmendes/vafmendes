@@ -1,5 +1,6 @@
 ### Olá 👋
-### Eu sou Vinícius Afonso de Freitas Mendes
+### Meu nome é Vinícius Afonso de Freitas Mendes
+### Desenvolvedor Web
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-afonso-de-freitas-mendes-9a806421a)
 
 ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vafmendes&show_icons=true&theme=tokyonight)
