@@ -16,4 +16,4 @@
   <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vafmendes&layout=compact)](https://github.com/vafmendes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vafmendes&theme=dark&layout=compact)](https://github.com/vafmendes/github-readme-stats)
