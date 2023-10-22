@@ -5,7 +5,8 @@
 
 <!--https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BmMIdYP5KQaiTwwTrFQg1nQ%3D%3D-->
 
-![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vafmendes&show_icons=true&theme=tokyonight)
+  ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vafmendes&show_icons=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vafmendes&theme=dark&layout=compact)](https://github.com/vafmendes/github-readme-stats)
 
 ### Tecnologias que utilizo
 
@@ -19,8 +20,4 @@
   <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-  
-  
 </div><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vafmendes&theme=dark&layout=compact)](https://github.com/vafmendes/github-readme-stats)
