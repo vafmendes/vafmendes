@@ -22,8 +22,9 @@ manuais.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vafmendes&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+##
 
-### Tecnologias que utilizo
+### Minhas Skills
 
 <div style="display: inline;">
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -35,4 +36,8 @@ manuais.
   <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-</div><br>
+  <img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div>
