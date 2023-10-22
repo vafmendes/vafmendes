@@ -15,15 +15,6 @@ manuais.
 
 ##
 
-<a href="https://github.com/vafmendes/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vafmendes&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/vafmendes/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vafmendes&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-##
-
 ### Minhas Skills
 
 <div style="display: inline;">
@@ -41,3 +32,12 @@ manuais.
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
+<br>
+<a href="https://github.com/vafmendes/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vafmendes&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/vafmendes/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vafmendes&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
