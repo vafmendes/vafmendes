@@ -3,10 +3,13 @@
 ### Desenvolvedor de Sistemas
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-afonso-de-freitas-mendes-9a806421a)
 
-<!--https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BmMIdYP5KQaiTwwTrFQg1nQ%3D%3D-->
+<a href="https://github.com/vafmendes/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vafmendes&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/vafmendes/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vafmendes&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-  ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vafmendes&show_icons=true&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vafmendes&theme=dark&layout=compact)](https://github.com/vafmendes/github-readme-stats)
 
 ### Tecnologias que utilizo
 
