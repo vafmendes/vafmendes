@@ -1,6 +1,19 @@
 ### Olá 👋 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-afonso-de-freitas-mendes-9a806421a)
 ### Meu nome é Vinícius Afonso de Freitas Mendes
 ### Desenvolvedor de Sistemas
+- Desenvolvedor de Sistemas com formação em Ciências da Computação e experiência em desenvolvimento de aplicações
+full-stack. Comprometido em aprimorar minhas habilidades técnicas e contribuir para projetos desafiadores.
+
+### Histórico profissional
+
+#### Conselho Regional de Medicina de São Paulo-CREMESP
+##### Estágio em Desenvolvimento de Sistemas - Fevereiro/2022 a Dezembro/2022
+- Colaboração em projetos de manutenção e atualização do sistema interno e website, utilizando HTML, CSS, JavaScript, PHP e bancos de dados Oracle e MySQL.
+- Apoio na elaboração de cenários de testes e realização de testes exploratórios
+manuais.
+- Participação ativa em equipes ágeis, aplicando metodologias Scrum e Kanban.
+
+##
 
 <a href="https://github.com/vafmendes/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vafmendes&show_icons=true&theme=tokyonight" />
