@@ -1,4 +1,5 @@
-### Meu [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-afonso-de-freitas-mendes-9a806421a)
+### Redes de Contato
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-afonso-de-freitas-mendes-9a806421a)
 ### Olá 👋
 ### Meu nome é Vinícius Afonso de Freitas Mendes
 ### Desenvolvedor de Sistemas
