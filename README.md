@@ -10,6 +10,7 @@ full-stack. Comprometido em aprimorar minhas habilidades técnicas e contribuir 
 #### Conselho Regional de Medicina de São Paulo-CREMESP
 ##### Estágio em Desenvolvimento de Sistemas - Fevereiro/2022 a Dezembro/2022
 - Colaboração em projetos de manutenção e atualização do sistema interno e website, utilizando HTML, CSS, JavaScript, PHP e bancos de dados Oracle e MySQL.
+- Participação de projetos em que baseava-se na manutenção de sistemas que utilizavam as seguintes frameworks utilizadas na empresa Angular e Springboot. 
 - Apoio na elaboração de cenários de testes e realização de testes exploratórios
 manuais.
 - Participação ativa em equipes ágeis, aplicando metodologias Scrum e Kanban.
