@@ -9,7 +9,7 @@
 
 ### About me
 
-- I hold a degree in Computer Science, completed an internship in systems development, and later gained experience as an IT assistant. I consider myself a proactive person and always strive to stay updated, whether by working on study projects, taking courses, or participating in groups related to my field on LinkedIn. I am currently pursuing another degree in Systems Analysis and Development.
+- I hold a degree in Computer Science, completed an internship in systems development, and later gained experience as an IT assistant. I consider myself a proactive person and always strive to stay updated, whether by working on study projects, taking courses, or participating in groups related to my field on LinkedIn.
 
 ##
 
