@@ -7,6 +7,10 @@
 
 - Sou graduado em Ciências da Computação, fiz estágio em desenvolvimento de sistemas e tive um período de experiência como auxiliar de TI anos depois. Me considero uma pessoa pró-ativa e sempre procuro me manter atualizado, seja fazendo projetos para estudos, realizando cursos e até mesmo participando de grupos relacionados à minha área pelo linkedin.
 
+### About me
+
+- I hold a degree in Computer Science, completed an internship in systems development, and later gained experience as an IT assistant. I consider myself a proactive person and always strive to stay updated, whether by working on study projects, taking courses, or participating in groups related to my field on LinkedIn. I am currently pursuing another degree in Systems Analysis and Development.
+
 ##
 
 ### Minhas Skills
